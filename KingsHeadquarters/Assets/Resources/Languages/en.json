@@ -1,0 +1,456 @@
+{
+  "entries": [
+    {
+      "key": "play_button",
+      "value": "Play"
+    },
+    {
+      "key": "options",
+      "value": "Settings"
+    },
+    {
+      "key": "quitgame",
+      "value": "Quit Game"
+    },
+    {
+      "key": "aud_volume",
+      "value": "Volume"
+    },
+    {
+      "key": "language",
+      "value": "Language"
+    },
+    {
+      "key": "return_mainmenu",
+      "value": "Return to Main Menu"
+    },
+    {
+      "key": "dlg_1_q",
+      "value": "My King, my field burned down"
+    },
+    {
+      "key": "dlg_1_a",
+      "value": "It happens sometimes z-"
+    },
+    {
+      "key": "dlg_1_b",
+      "value": "Let's handle it immediately t- z+"
+    },
+    {
+      "key": "dlg_2_q",
+      "value": "My King, there are atheists in the village"
+    },
+    {
+      "key": "dlg_2_a",
+      "value": "Off with their heads x+"
+    },
+    {
+      "key": "dlg_2_b",
+      "value": "We must respect beliefs x- z+"
+    },
+    {
+      "key": "dlg_3_q",
+      "value": "My King, I am very lonely :("
+    },
+    {
+      "key": "dlg_3_a",
+      "value": "Pick one of my slaves z+ x-"
+    },
+    {
+      "key": "dlg_3_b",
+      "value": "With that face, it's normal :D z-"
+    },
+    {
+      "key": "dlg_4_q",
+      "value": "My King, there are bandits in the forest, they keep raiding our village."
+    },
+    {
+      "key": "dlg_4_a",
+      "value": "We will raid the bandits' den tonight y- z+"
+    },
+    {
+      "key": "dlg_4_b",
+      "value": "Defend yourselves then, brother z- y+"
+    },
+    {
+      "key": "dlg_5_q",
+      "value": "My King, let's hold a festival in the town square"
+    },
+    {
+      "key": "dlg_5_a",
+      "value": "Let the festival be organized, let the soldiers and people rejoice t- y+"
+    },
+    {
+      "key": "dlg_5_b",
+      "value": "Festival is unnecessary, continue the guard duties t+ z-"
+    },
+    {
+      "key": "dlg_6_q",
+      "value": "My King, as blacksmiths, we request an additional budget for new sword production"
+    },
+    {
+      "key": "dlg_6_a",
+      "value": "Give the money, let the army get stronger t- y+"
+    },
+    {
+      "key": "dlg_6_b",
+      "value": "Make do with the old swords t+"
+    },
+    {
+      "key": "dlg_7_q",
+      "value": "My King, we found buried treasure in the palace garden. The chest is full of gold"
+    },
+    {
+      "key": "dlg_7_a",
+      "value": "We are rich, fill the vault and keep this between us t+"
+    },
+    {
+      "key": "dlg_7_b",
+      "value": "Excellent, distribute it to the poor and needy z+"
+    },
+    {
+      "key": "dlg_8_q",
+      "value": "My King, a famous Saint has come to the city. He could be useful to us."
+    },
+    {
+      "key": "dlg_8_a",
+      "value": "Let him give a speech to provide resilience to the soldiers y+"
+    },
+    {
+      "key": "dlg_8_b",
+      "value": "He can train our clergy x+"
+    },
+    {
+      "key": "dlg_9_q",
+      "value": "My King, tall bearded men with axes landed on our shores and are chopping people up."
+    },
+    {
+      "key": "dlg_9_a",
+      "value": "Oh no! z-"
+    },
+    {
+      "key": "dlg_9_b",
+      "value": "Send soldiers immediately y-"
+    },
+    {
+      "key": "dlg_10_q",
+      "value": "My King, a woman in our village gave birth to a two-headed child. There are rumors of a witch in the village."
+    },
+    {
+      "key": "dlg_10_a",
+      "value": "Find the witch immediately and burn her! x+ z+ y-"
+    },
+    {
+      "key": "dlg_10_b",
+      "value": "Don't believe in such things x-"
+    },
+    {
+      "key": "dlg_11_q",
+      "value": "My King, a merchant brought a potion to clear the weeds in the fields. The farmers are quite impressed by this."
+    },
+    {
+      "key": "dlg_11_a",
+      "value": "Super, buy it whatever the cost t- z+"
+    },
+    {
+      "key": "dlg_11_b",
+      "value": "It's probably carcinogenic, let's not get involved t+"
+    },
+    {
+      "key": "dlg_12_q",
+      "value": "The priest extended the rituals so much that the congregation is falling asleep. What should we do?"
+    },
+    {
+      "key": "dlg_12_a",
+      "value": "Mr. Priest, shorten that ritual. x- z+"
+    },
+    {
+      "key": "dlg_12_b",
+      "value": "Let him continue, let's count the sleepers as a blessing x+ z-"
+    },
+    {
+      "key": "dlg_13_q",
+      "value": "The soldiers want dessert, the treasurer says 'it's too expensive'"
+    },
+    {
+      "key": "dlg_13_a",
+      "value": "Treasurer allowed the dessert t- y+"
+    },
+    {
+      "key": "dlg_13_b",
+      "value": "Let's give carrots to the soldiers t+ y-"
+    },
+    {
+      "key": "dlg_14_q",
+      "value": "The Agha wants a tax on jokes. He says let's tax anyone who makes a joke"
+    },
+    {
+      "key": "dlg_14_a",
+      "value": "No, freedom of humor is sacred z-"
+    },
+    {
+      "key": "dlg_14_b",
+      "value": "Impose the tax, let the joker think about it z-"
+    },
+    {
+      "key": "dlg_15_q",
+      "value": "The priest rang the morning bell so much that the villagers say 'we thought the apocalypse had come'"
+    },
+    {
+      "key": "dlg_15_a",
+      "value": "Let's reduce the bells x- z+"
+    },
+    {
+      "key": "dlg_15_b",
+      "value": "Ring the bells twice as much, let them get used to it. x+ z-"
+    },
+    {
+      "key": "dlg_16_q",
+      "value": "The soldiers accidentally besieged the forest instead of the enemy"
+    },
+    {
+      "key": "dlg_16_a",
+      "value": "Provide map training y+ t-"
+    },
+    {
+      "key": "dlg_16_b",
+      "value": "Declare the forest guilty, easy job t+"
+    },
+    {
+      "key": "dlg_17_q",
+      "value": "Soldiers accidentally captured the bakery during the exercise."
+    },
+    {
+      "key": "dlg_17_a",
+      "value": "Correct the exercise. y+ t-"
+    },
+    {
+      "key": "dlg_17_b",
+      "value": "Since they're in, let them bake bread too. z+"
+    },
+    {
+      "key": "dlg_18_q",
+      "value": "Your Majesty... Lights are turning on by themselves in the temple. Could this be a divine sign?"
+    },
+    {
+      "key": "dlg_18_a",
+      "value": "Yes, the gods definitely installed electricity x+"
+    },
+    {
+      "key": "dlg_18_b",
+      "value": "No, put out the candles. We get stuck with the bill t+"
+    },
+    {
+      "key": "dlg_19_q",
+      "value": "The greengrocer banned the scale saying 'Watermelon isn't weighed, it's felt'"
+    },
+    {
+      "key": "dlg_19_a",
+      "value": "Let's buy them a scale z+ t-"
+    },
+    {
+      "key": "dlg_19_b",
+      "value": "Let's legalize the feeling method z- "
+    },
+    {
+      "key": "dlg_20_q",
+      "value": "All soldiers fell asleep at the same time during the guard duty"
+    },
+    {
+      "key": "dlg_20_a",
+      "value": "Let's punish them y-"
+    },
+    {
+      "key": "dlg_20_b",
+      "value": "Let's provide them with strong coffee. t-"
+    },
+    {
+      "key": "dlg_21_q",
+      "value": "Soldiers mistook the 'Stop!' command for 'Shoot!' and broke the door"
+    },
+    {
+      "key": "dlg_21_a",
+      "value": "Train the soldiers y+ t-"
+    },
+    {
+      "key": "dlg_21_b",
+      "value": "Reinforce the door, problem solved t-"
+    },
+    {
+      "key": "reaction_priest_positive1",
+      "value": "We returned from the brink of hell."
+    },
+    {
+      "key": "reaction_priest_positive2",
+      "value": "God bless you."
+    },
+    {
+      "key": "reaction_priest_positive3",
+      "value": "That is what a religious man would say"
+    },
+    {
+      "key": "reaction_priest_positive4",
+      "value": "I will have you declared a Saint. Long Live Our King!"
+    },
+    {
+      "key": "reaction_priest_negative1",
+      "value": "I ignored that one, come on"
+    },
+    {
+      "key": "reaction_priest_negative2",
+      "value": "That's a sin, brother"
+    },
+    {
+      "key": "reaction_priest_negative3",
+      "value": "We've become Sodom and Gomorrah."
+    },
+    {
+      "key": "reaction_priest_negative4",
+      "value": "We will burn in hell."
+    },
+    {
+      "key": "reaction_general_positive1",
+      "value": "That's it, keep good relations with the soldier."
+    },
+    {
+      "key": "reaction_general_positive2",
+      "value": "Good news, chilling out today too"
+    },
+    {
+      "key": "reaction_general_positive3",
+      "value": "Long live the supreme commander!! "
+    },
+    {
+      "key": "reaction_general_positive4",
+      "value": "The army is behind you, my King. Long live!! "
+    },
+    {
+      "key": "reaction_general_negative1",
+      "value": "Let's do it then."
+    },
+    {
+      "key": "reaction_general_negative2",
+      "value": "Ugh, we have work again."
+    },
+    {
+      "key": "reaction_general_negative3",
+      "value": "Soldier do this, soldier do that, he got used to it too"
+    },
+    {
+      "key": "reaction_general_negative4",
+      "value": "The soldier has no strength left to endure."
+    },
+    {
+      "key": "reaction_gm_positive1",
+      "value": "That's something"
+    },
+    {
+      "key": "reaction_gm_positive2",
+      "value": "The people will not forget this kindness."
+    },
+    {
+      "key": "reaction_gm_positive3",
+      "value": "Long live our glorious supreme King."
+    },
+    {
+      "key": "reaction_gm_positive4",
+      "value": "The people call you God King"
+    },
+    {
+      "key": "reaction_gm_negative1",
+      "value": "Come on, was that really necessary?"
+    },
+    {
+      "key": "reaction_gm_negative2",
+      "value": "The people won't like this"
+    },
+    {
+      "key": "reaction_gm_negative3",
+      "value": "Try explaining this to the folks"
+    },
+    {
+      "key": "reaction_gm_negative4",
+      "value": "Even I can't calm the people anymore"
+    },
+    {
+      "key": "reaction_hzn_positive1",
+      "value": "We had no money left, this is very good."
+    },
+    {
+      "key": "reaction_hzn_positive2",
+      "value": "Exactly, no need for expense."
+    },
+    {
+      "key": "reaction_hzn_positive3",
+      "value": "Financially we are in good shape, my King."
+    },
+    {
+      "key": "reaction_hzn_positive4",
+      "value": "The vault is full to the brim. We are rich."
+    },
+    {
+      "key": "reaction_hzn_negative1",
+      "value": "At least we still have money"
+    },
+    {
+      "key": "reaction_hzn_negative2",
+      "value": "Money is gone"
+    },
+    {
+      "key": "reaction_hzn_negative3",
+      "value": "We have very little money left, my King."
+    },
+    {
+      "key": "reaction_hzn_negative4",
+      "value": "You completely emptied the treasury, man!"
+    },
+    {
+      "key": "hello_text_null",
+      "value": "You need to find reasonable solutions to the villagers' problems. Your decisions might have unexpected consequences. Good luck"
+    },
+    {
+      "key": "hello_text_priest",
+      "value": "Greetings my King, I am your Archbishop. Pleased to meet you."
+    },
+    {
+      "key": "hello_text_general",
+      "value": "And I am the one at the head of your Soldiers, my King. It will be a hard day."
+    },
+    {
+      "key": "hello_text_gm",
+      "value": "I am the Head of the People, my King. I keep the pulse of the public. We will solve the villagers' problems together."
+    },
+    {
+      "key": "hello_text_hzn",
+      "value": "And I am your treasurer, my King. I am tasked with reporting our financial status"
+    },
+    {
+      "key": "score",
+      "value": "Score"
+    },
+    {
+      "key": "last_general",
+      "value": "A coup happened as a result of your decisions on military matters. You were captured by your soldiers."
+    },
+    {
+      "key": "last_guild",
+      "value": "The people rebelled because of your decisions. They brought your castle down on your head."
+    },
+    {
+      "key": "last_money",
+      "value": "Due to your financial decisions, the kingdom has no money left. You fled to save your life"
+    },
+    {
+      "key": "last_religion",
+      "value": "Your decisions regarding religious matters caused outrage. You were excommunicated and crucified."
+    },
+    {
+      "key": "credits",
+      "value": "Developed by the Sürekli Jam team for AyazJam 2025."
+    },
+    {
+      "key": "name",
+      "value": "King's Headquarters"
+    }
+  ]
+}

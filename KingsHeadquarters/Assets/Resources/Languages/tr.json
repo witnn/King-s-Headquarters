@@ -1,0 +1,457 @@
+{
+  "entries": [
+    {
+      "key": "play_button",
+      "value": "Oyna"
+    },
+    {
+      "key": "options",
+      "value": "Ayarlar"
+    },
+    {
+      "key": "quitgame",
+      "value": "Oyundan Çık"
+    },
+    {
+      "key": "aud_volume",
+      "value": "Ses Miktarı"
+    },
+    {
+      "key": "language",
+      "value": "Dil"
+    },
+    {
+      "key": "return_mainmenu",
+      "value": "Ana menüye dön"
+    },
+    {
+      "key": "dlg_1_q",
+      "value": "Kralım tarlam yandı"
+    },
+    {
+      "key": "dlg_1_a",
+      "value": "Olur öyle arada z-"
+    },
+    {
+      "key": "dlg_1_b",
+      "value": "Hemen halledelim t- z+"
+    },
+    {
+      "key": "dlg_2_q",
+      "value": "Kralım ateistler var köyde"
+    },
+    {
+      "key": "dlg_2_a",
+      "value": "Vurun kellelerini x+"
+    },
+    {
+      "key": "dlg_2_b",
+      "value": "İnançlara saygı duymalıyız x- z+"
+    },
+    {
+      "key": "dlg_3_q",
+      "value": "Kralım çok yalnızım :("
+    },
+    {
+      "key": "dlg_3_a",
+      "value": "Benim kölelerden seç bir tane z+ x-"
+    },
+    {
+      "key": "dlg_3_b",
+      "value": "Bu tipte normal :D z-"
+    },
+    {
+      "key": "dlg_4_q",
+      "value": "Kralım ormanda haydutlar var köyümüzü basıp basıp duruyorlar."
+    },
+    {
+      "key": "dlg_4_a",
+      "value": "Bu gece haydutların inine gireceğiz y- z+"
+    },
+    {
+      "key": "dlg_4_b",
+      "value": "Siz de kendinizi savunun bilader z- y+"
+    },
+    {
+      "key": "dlg_5_q",
+      "value": "Kralım kasabanın meydanında festival yapalım"
+    },
+    {
+      "key": "dlg_5_a",
+      "value": "Festival düzenlensin, askerler de halk da coşsun t- y+"
+    },
+    {
+      "key": "dlg_5_b",
+      "value": "Festival gereksiz, nöbetlere devam edin t+ z-"
+    },
+    {
+      "key": "dlg_6_q",
+      "value": "Kralım demirciler olarak yeni kılıç üretimi için ek bütçe talep ediyoruz"
+    },
+    {
+      "key": "dlg_6_a",
+      "value": "Parayı verin, ordu güçlensin t- y+"
+    },
+    {
+      "key": "dlg_6_b",
+      "value": "Eski kılıçlarla idare edin t+"
+    },
+    {
+      "key": "dlg_7_q",
+      "value": "Kralım sarayın bahçesinde gömü bulduk. Sandığın içi altın dolu"
+    },
+    {
+      "key": "dlg_7_a",
+      "value": "Zengin olduk, kasayı doldurun bu mevzu da aramızda t+"
+    },
+    {
+      "key": "dlg_7_b",
+      "value": "Ala, Fakire fukaraya dağıtın z+"
+    },
+
+    {
+      "key": "dlg_8_q",
+      "value": "Kralım, Şehire ünlü bir Aziz geldi. Bize faydası dokunabilir."
+    },
+    {
+      "key": "dlg_8_a",
+      "value": "Askerlere dirayet sağlaması için konuşma yapsın y+"
+    },
+    {
+      "key": "dlg_8_b",
+      "value": "Din adamlarımızı eğitebilir x+"
+    },
+    {
+      "key": "dlg_9_q",
+      "value": "Kralım, kıyılarımıza uzun boylu sakallı baltalı adamlar indi milleti doğrayor."
+    },
+    {
+      "key": "dlg_9_a",
+      "value": "Eyvah! z-"
+    },
+    {
+      "key": "dlg_9_b",
+      "value": "Derhal asker gönderin y-"
+    },
+    {
+      "key": "dlg_10_q",
+      "value": "Kralım, bizim köyde kadının biri iki kafalı çocuk doğurdu. Köyde cadı olduğu söylentisi var."
+    },
+    {
+      "key": "dlg_10_a",
+      "value": "Derhal cadı bulunup yakılsın! x+ z+ y-"
+    },
+    {
+      "key": "dlg_10_b",
+      "value": "İnanmayın böyle şeylere x-"
+    },
+    {
+      "key": "dlg_11_q",
+      "value": "Kralım, tüccarın biri tarlalardaki yabani otları temizlemek için bi iksir getirmiş. Baya etkilemiş çiftçileri bu."
+    },
+    {
+      "key": "dlg_11_a",
+      "value": "Süper, parası neyse alın t- z+"
+    },
+    {
+      "key": "dlg_11_b",
+      "value": "Kanserojen falandır bulaşmayalım t+"
+    },
+    {
+      "key": "dlg_12_q",
+      "value": "Papaz ayinleri o kadar uzattı ki cemaat uyuyup kalıyor. Ne yapalım?"
+    },
+    {
+      "key": "dlg_12_a",
+      "value": "Papaz efendi, kısalt şu ayini. x- z+"
+    },
+    {
+      "key": "dlg_12_b",
+      "value": "Devam etsin, uyuyanlar bereket sayalım x+ z-"
+    },
+    {
+      "key": "dlg_13_q",
+      "value": "Askerler tatlı istiyor, haznedar 'çok pahalı' diyor"
+    },
+    {
+      "key": "dlg_13_a",
+      "value": "Haznedar tatlıyı serbest bırakt t- y+"
+    },
+    {
+      "key": "dlg_13_b",
+      "value": "Askerlere havuç verelim t+ y-"
+    },
+    {
+      "key": "dlg_14_q",
+      "value": "Ağa Espriye Vergi İstiyor . Ağa, kim espri yaparsa vergi keselim diyor"
+    },
+    {
+      "key": "dlg_14_a",
+      "value": "Olmaz, espri özgürlüğü kutsaldır z-"
+    },
+    {
+      "key": "dlg_14_b",
+      "value": "Vergiyi koy, espri yapan düşünsün z-"
+    },
+    {
+      "key": "dlg_15_q",
+      "value": "Papaz sabah çanını o kadar çok çaldı ki köylüler 'kıyamet geldi sandık' diyor"
+    },
+    {
+      "key": "dlg_15_a",
+      "value": "Çanları azaltalım x- z+"
+    },
+    {
+      "key": "dlg_15_b",
+      "value": "Çanları iki kat çaldıralım, alışsınlar. x+ z-"
+    },
+    {
+      "key": "dlg_16_q",
+      "value": "Askerler yanlışlıkla düşmanı değil ormanı kuşatmış"
+    },
+    {
+      "key": "dlg_16_a",
+      "value": "Harita eğitimi verilsin y+ t-"
+    },
+    {
+      "key": "dlg_16_b",
+      "value": "Ormanı suçlu ilan edelim, iş kolay t+"
+    },
+    {
+      "key": "dlg_17_q",
+      "value": "Askerler tatbikatta yanlışlıkla fırını ele geçirmiş."
+    },
+    {
+      "key": "dlg_17_a",
+      "value": "Tatbikatı düzeltin. y+ t-"
+    },
+    {
+      "key": "dlg_17_b",
+      "value": "Madem girdiler, ekmek de pişirsinler. z+"
+    },
+    {
+      "key": "dlg_18_q",
+      "value": "Majesteleri... Tapınakta ışıklar kendi kendine yanıyor. Bu bir ilahi işaret olabilir mi?"
+    },
+    {
+      "key": "dlg_18_a",
+      "value": "Evet, kesin tanrılar elektrik bağladı x+"
+    },
+    {
+      "key": "dlg_18_b",
+      "value": "Hayır, mumları söndürün. Faturası bize kalıyor t+"
+    },
+    {
+      "key": "dlg_19_q",
+      "value": "Manav “Karpuz tartılmaz, hissedilir” diyerek tartıyı yasaklamış"
+    },
+    {
+      "key": "dlg_19_a",
+      "value": "Tartıyı alalım şunlara z+ t-"
+    },
+    {
+      "key": "dlg_19_b",
+      "value": "Hissiyat yöntemini resmileştirelim z- "
+    },
+    {
+      "key": "dlg_20_q",
+      "value": "Nöbet sırasında bütün askerler aynı anda uyumuş"
+    },
+    {
+      "key": "dlg_20_a",
+      "value": "Ceza verelim y-"
+    },
+    {
+      "key": "dlg_20_b",
+      "value": "Onlara güçlü kahve sağlayalım. t-"
+    },
+    {
+      "key": "dlg_21_q",
+      "value": "Askerler Dur!” komutunu “vur!” sanmış, kapıyı kırmış"
+    },
+    {
+      "key": "dlg_21_a",
+      "value": "Askeri eğitin y+ t-"
+    },
+    {
+      "key": "dlg_21_b",
+      "value": "Kapıyı sağlamlaştırın, sorun çözülür t-"
+    },
+    {
+      "key": "reaction_priest_positive1",
+      "value": "Cehennemin kıyısından döndük."
+    },
+    {
+      "key": "reaction_priest_positive2",
+      "value": "Tanrı sizi kutsasın."
+    },
+    {
+      "key": "reaction_priest_positive3",
+      "value": "İşte dindar bir adamın diyeceği şey"
+    },
+    {
+      "key": "reaction_priest_positive4",
+      "value": "Sizi Aziz ilan ettireceğim. Çok Yaşa Kralımız!"
+    },
+    {
+      "key": "reaction_priest_negative1",
+      "value": "Görmezden geldim hadi"
+    },
+    {
+      "key": "reaction_priest_negative2",
+      "value": "Günah be kardeşim ya"
+    },
+    {
+      "key": "reaction_priest_negative3",
+      "value": "İyice lut kavmi olduk."
+    },
+    {
+      "key": "reaction_priest_negative4",
+      "value": "Cehennemde yanacağız."
+    },
+    {
+      "key": "reaction_general_positive1",
+      "value": "Şöyle işte, askerle aranı iyi tutacaksın."
+    },
+    {
+      "key": "reaction_general_positive2",
+      "value": "Güzel haber, bugün de takılmaca"
+    },
+    {
+      "key": "reaction_general_positive3",
+      "value": "Yaşa yüce başkomutan!! "
+    },
+    {
+      "key": "reaction_general_positive4",
+      "value": "Ordu arkanızda kralım. Çok yaşayın!! "
+    },
+    {
+      "key": "reaction_general_negative1",
+      "value": "Yapalım bari."
+    },
+    {
+      "key": "reaction_general_negative2",
+      "value": "Off yine işimiz var."
+    },
+    {
+      "key": "reaction_general_negative3",
+      "value": "Asker şunu yap bunu yap iyi alıştı bu da"
+    },
+    {
+      "key": "reaction_general_negative4",
+      "value": "Askerin dayanacak gücü kalmadı."
+    },
+    {
+      "key": "reaction_gm_positive1",
+      "value": "Bu da bişeydir"
+    },
+    {
+      "key": "reaction_gm_positive2",
+      "value": "Halk bu iyiliği unutmayacak."
+    },
+    {
+      "key": "reaction_gm_positive3",
+      "value": "Yaşasın şanlı yüce kralımız."
+    },
+    {
+      "key": "reaction_gm_positive4",
+      "value": "Halk size Tanrı Kral diyor"
+    },
+    {
+      "key": "reaction_gm_negative1",
+      "value": "Buyur, oldu mu bu şimdi"
+    },
+    {
+      "key": "reaction_gm_negative2",
+      "value": "Bu halkın hoşuna gitmeyecek"
+    },
+    {
+      "key": "reaction_gm_negative3",
+      "value": "Gel de bunu ahali'ye anlat"
+    },
+    {
+      "key": "reaction_gm_negative4",
+      "value": "Halkı artık ben bile sakinleştiremem"
+    },
+    {
+      "key": "reaction_hzn_positive1",
+      "value": "Hiç paramız kalmamıştı, çok iyi oldu."
+    },
+    {
+      "key": "reaction_hzn_positive2",
+      "value": "Aynen öyle, masrafa gerek yok."
+    },
+    {
+      "key": "reaction_hzn_positive3",
+      "value": "Maddi olarak iyi durumdayız kralım."
+    },
+    {
+      "key": "reaction_hzn_positive4",
+      "value": "Kasa da ağzına kadar dolu be. Zenginiz."
+    },
+    {
+      "key": "reaction_hzn_negative1",
+      "value": "En azından halen paramız var"
+    },
+    {
+      "key": "reaction_hzn_negative2",
+      "value": "Gitti paralar"
+    },
+    {
+      "key": "reaction_hzn_negative3",
+      "value": "Çok az paramız kaldı kralım."
+    },
+    {
+      "key": "reaction_hzn_negative4",
+      "value": "Hazineyi tamamen boşalttın be adam!"
+    },
+    {
+      "key": "hello_text_null",
+      "value": "Köylülerin sorunlaruna makul çözümler bulman lazım. Kararlarının beklenmedik sonuçları olabilir. Bol şans"
+    },
+    {
+      "key": "hello_text_priest",
+      "value": "Merhabalar Kralım, ben Baş Psikopoz'unuzum. Memnun oldum."
+    },
+    {
+      "key": "hello_text_general",
+      "value": "Ben de Askerlerinizin başındaki kişiyim kralım. Zor bir gün olacak."
+    },
+    {
+      "key": "hello_text_gm",
+      "value": "Ben Ahali reisiyim kralım. Halkı nabzı benden sorulur. Köylülerin sorunlarını hep beraber çözeceğiz."
+    },
+    {
+      "key": "hello_text_hzn",
+      "value": "Ben de hazinedar'ınızım kralım. Maddi durumumuzu bildirmekle görevliyim"
+    },
+    {
+      "key": "score",
+      "value": "Skor"
+    },
+    {
+      "key": "last_general",
+      "value": "Askeri konularda verdiğin kararlar sonucunda darbe oldu. Askerlerin tarafından ele geçirildin."
+    },
+    {
+      "key": "last_guild",
+      "value": "Verdiğin kararlardan dolayı halk isyan etti. Kaleni başına yıktılar."
+    },
+    {
+      "key": "last_money",
+      "value": "Maddi konularda verdiğin kararlar nedeniyle krallığın parası kalmadı. Kaçıp canını kurtardın"
+    },
+    {
+      "key": "last_religion",
+      "value": "Dini meseleleri ilgilendiren kararların infial yarattı. Aforoz edilip çarmıha gerildin."
+    },
+    {
+      "key": "credits",
+      "value": "Sürekli Jam ekibi tarafından AyazJam 2025 için geliştirilmiştir."
+    },
+    {
+      "key": "name",
+      "value": "Kralın Karargahı"
+    }
+  ]
+}
